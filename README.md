@@ -9,4 +9,4 @@ Bem-vindo(a) ao repositório Desafios de código JavaScript! Aqui você encontra
 | -------------- | --------- |
 | [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calculadora IMC com HTML, CSS, JS |
 | [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real com HTML, CSS, JS |
-| [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Diversos exercícios sobre loop com HTML, CSS, JS |
+| [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exeercício usando "for" clássico com HTML, CSS, JS |
