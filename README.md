@@ -4,6 +4,7 @@ Bem-vindo(a) ao repositório Desafios de código JavaScript! Aqui você encontra
 
 #
 ### Acesso aos códigos
+Obs: cada link possui um vídeo demonstrativo e o repositório com os arquivos.
 
 | Desafio | Descrição |
 | -------------- | --------- |
