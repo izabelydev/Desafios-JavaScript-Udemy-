@@ -12,3 +12,8 @@ Obs: cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositór
 | [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
 | [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
 | [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
+
+#
+### Ainda tem mais!
+Confira meus outros repositórios no GitHub [clicando aqui](https://github.com/izabelydev?tab=repositories).
+
