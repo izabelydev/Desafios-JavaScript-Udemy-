@@ -4,11 +4,11 @@ Bem-vindo(a) ao repositório Desafios de código JavaScript! Aqui você encontra
 
 #
 ### Acesso aos códigos
-Obs: cada link possui um vídeo demonstrativo e o repositório com os arquivos.
+Obs: cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositório com os arquivos.
 
-| Desafio | Descrição |
-| -------------- | --------- |
-| [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calculadora IMC com HTML, CSS, JS |
-| [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) com HTML, CSS, JS |
-| [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real com HTML, CSS, JS |
-| [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico com HTML, CSS, JS |
+| Desafio | Descrição | Curso |
+| -------------- | --------- | --------- |
+| [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calculadora IMC com HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
+| [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) com HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real com HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
+| [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico com HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
