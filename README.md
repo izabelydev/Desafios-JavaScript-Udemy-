@@ -1,4 +1,4 @@
-# Desafios em JavaScript dos cursos da plataforma Udemy
+# Desafios em JavaScript dos cursos na plataforma Udemy
 
 Bem-vindo(a) ao repositório Desafios de código JavaScript! Aqui você encontrará uma coleção de desafios de programação focados no desenvolvimento web. Este repositório é o lugar onde guardo meus códigos enquanto trabalho para aprimorar minhas habilidades em HTML, CSS, JavaScript. Sinta-se à vontade para explorar, contribuir e acompanhar meu progresso nesta jornada de aprendizado.
 
