@@ -11,7 +11,7 @@ Cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositório co
 | -------------- | --------- | --------- |  --------- |
 | [Formulário dinâmico](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/concatenarStrings) | Formulário responsivo com animações e resposta dinâmica | HTML, CSS JS | Desafios de JavaScript - entrevistas e testes técnicos |
 | [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Timer](https://github.com/izabelydev/javascript-aulas/tree/main/40-setInterval-setTimeout/exerc%C3%ADcio) | Timer com os botões iniciar, pausar e zerar | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
+| [Calcular área e perímetro](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/areaEperimetro) | Formulário dinâmico para calcular a área e o perímetro de um retângulo | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
 | [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calcular e classificar o IMC | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 | [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
 | [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
@@ -25,6 +25,7 @@ Cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositório co
 | Desafio | Descrição | Linguagens | Curso |
 | -------------- | --------- | --------- |  --------- |
 | [Lista de tarefas](https://github.com/izabelydev/javascript-aulas/tree/main/41-lista-tarefas) | Adicionar itens com o botão ou com a tecla "enter", manter focus do input, remover itens e fazer a lista ficar salva Local Storage. | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
+| [Timer](https://github.com/izabelydev/javascript-aulas/tree/main/40-setInterval-setTimeout/exerc%C3%ADcio) | Timer com os botões iniciar, pausar e zerar | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 
 
 
