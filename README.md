@@ -10,6 +10,7 @@ Obs: cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositór
 | -------------- | --------- | --------- |  --------- |
 | [Formulário dinâmico](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/concatenarStrings) | Formulário responsivo com animações e resposta dinâmica | HTML, CSS JS | Desafios de JavaScript - entrevistas e testes técnicos |
 | [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Timer](https://github.com/izabelydev/javascript-aulas/tree/main/40-setInterval-setTimeout/exerc%C3%ADcio) | Timer com os botões iniciar, pausar e zerar | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 | [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calcular e classificar o IMC | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 | [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
 | [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
