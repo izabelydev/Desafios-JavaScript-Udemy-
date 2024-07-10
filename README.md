@@ -26,6 +26,7 @@ Cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositório co
 | Desafio | Descrição | Linguagens | Curso |
 | -------------- | --------- | --------- |  --------- |
 | [Lista de tarefas](https://github.com/izabelydev/javascript-aulas/tree/main/41-lista-tarefas) | Adicionar itens com o botão ou com a tecla "enter", manter focus do input, remover itens e fazer a lista ficar salva Local Storage. | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
+| [Calculadora v1](https://github.com/izabelydev/javascript-aulas/tree/main/50-calculadora-factory-function) | Calculadora básica versão com factory function | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
 | [Timer](https://github.com/izabelydev/javascript-aulas/tree/main/40-setInterval-setTimeout/exerc%C3%ADcio) | Timer com os botões iniciar, pausar e zerar | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 
 
