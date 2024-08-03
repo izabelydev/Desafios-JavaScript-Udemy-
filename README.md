@@ -9,12 +9,12 @@ Cada link na coluna "Desafio" possui um vídeo demonstrativo e o repositório co
 
 | Desafio | Descrição | Linguagens | Curso |
 | -------------- | --------- | --------- |  --------- |
-| [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Calcular área e perímetro](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/areaEperimetro) | Formulário dinâmico para calcular a área e o perímetro de um retângulo | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Checar divisibilidade](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/checarDivisibilidade) | Checar se um número é divisível pelo outro | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Faixa etária](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/faixaEtaria) | Classificar a idade: criança, adolescente, adulto, idoso | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Ingresso](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/tarifa) | Escolher o tipo de ingresso e apricar o desconto conforme o tipo selecionado | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
-| [Formulário dinâmico](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/concatenarStrings) | Formulário responsivo com animações e resposta dinâmica | HTML, CSS JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Conversor de temperatura](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/temperatura) | Converter graus Celsius para Fahrenheit (e vice-versa) | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Calcular área e perímetro](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/areaEperimetro) | Formulário dinâmico para calcular a área e o perímetro de um retângulo | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Checar divisibilidade](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/checarDivisibilidade) | Checar se um número é divisível pelo outro | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Faixa etária](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/faixaEtaria) | Classificar a idade: criança, adolescente, adulto, idoso | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Ingresso](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/tarifa) | Escolher o tipo de ingresso e apricar o desconto conforme o tipo selecionado | HTML, CSS, JS | Desafios de JavaScript - entrevistas e testes técnicos |
+| [Formulário dinâmico](https://github.com/izabelydev/javascript-aulas/tree/main/Desafios/fundamentosJS/concatenarStrings) | Formulário responsivo com animações e resposta dinâmica | HTML, CSS JS | Desafios de JavaScript - entrevistas e testes técnicos |
 | [Calcular IMC](https://github.com/izabelydev/javascript-aulas/tree/main/25-exerc-imc) | Calcular e classificar o IMC | HTML, CSS, JS | JavaScript e TypeScript do básico ao avançado |
 | [Data e hora](https://github.com/izabelydev/javascript-aulas/tree/main/27-objeto-date) | Data e hora em tempo real | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
 | [Estruturas de repetição](https://github.com/izabelydev/javascript-aulas/tree/main/32-estrutura-repeticao) | Exercício usando "for" clássico | HTML, CSS, JS |  JavaScript e TypeScript do básico ao avançado |
